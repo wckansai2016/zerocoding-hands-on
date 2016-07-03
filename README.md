@@ -24,3 +24,24 @@
 ----
 
 ## ハンズオンの流れ
+
+1. [ハンズオンの流れ 1](https://github.com/wckansai2016/zerocoding-hands-on)
+1. [ハンズオンの流れ 2](https://github.com/wckansai2016/zerocoding-hands-on)
+1. [ハンズオンの流れ 3](https://github.com/wckansai2016/zerocoding-hands-on)
+1. [ハンズオンの流れ 4](https://github.com/wckansai2016/zerocoding-hands-on)
+
+----
+
+## 当日発表したスライド
+
+[こちらになります](https://github.com/wckansai2016/zerocoding-hands-on)
+
+----
+
+## 世話役一覧
+
+- [シマキョウスケ](https://profiles.wordpress.org/shimakyohsuke)
+- [川井 昌彦](https://profiles.wordpress.org/masakawai)
+- [ふじたたいぞう](https://profiles.wordpress.org/junonet)
+- [まゆねぇ](https://profiles.wordpress.org/mayum)
+- [yori3](https://profiles.wordpress.org/yori3)
