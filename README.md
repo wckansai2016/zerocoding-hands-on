@@ -12,14 +12,14 @@
 
 ### ゴール
 
-コードを書かずに WordPress サイトを作る。
+コードを書かなくてもサイトが作れる！
 
 ### 持ち帰ってほしいこと
 
-- 見た目を整えたいなら、HTML・CSS を理解する必要があります。
-- サイト内で複雑な処理をしたいなら PHP または WordPress 関数を理解する必要があります。
+- 見た目を整えたいなら、HTML・CSS を理解する必要がある。
+- サイト内で複雑な処理をしたいなら PHP または WordPress 関数を理解する必要がある。
 
-つまり、コードを書かないと実現できないことを持ち帰っていただき、今後の目標にしていただきたいです。
+コードを書かないと実現できないことを理解し、今後の目標にしていただきたいです。
 
 ----
 
@@ -27,7 +27,7 @@
 
 ### 共通
 
-1. [WordPress の基本設定](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-all.md)
+- [WordPress の基本設定](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-all.md)
   - 言語設定
   - サイトのタイトル設定
   - サイトのキャッチフレーズ設定
@@ -38,10 +38,10 @@
 
 ### 各カテゴリ毎
 
-1. [ブログサイト](https://github.com/wckansai2016/zerocoding-hands-on)
-1. [ギャラリーサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-gallery.md)
-1. [コーポレートサイト](https://github.com/wckansai2016/zerocoding-hands-on)
-1. [ショップサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+- [ブログサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+- [ギャラリーサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-gallery.md)
+- [コーポレートサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+- [ショップサイト](https://github.com/wckansai2016/zerocoding-hands-on)
 
 ----
 
