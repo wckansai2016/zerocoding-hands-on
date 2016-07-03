@@ -25,18 +25,29 @@
 
 ## ハンズオンの流れ
 
-1. [ハンズオンの流れ 1](https://github.com/wckansai2016/zerocoding-hands-on)
-1. [ハンズオンの流れ 2](https://github.com/wckansai2016/zerocoding-hands-on)
-1. [ハンズオンの流れ 3](https://github.com/wckansai2016/zerocoding-hands-on)
-1. [ハンズオンの流れ 4](https://github.com/wckansai2016/zerocoding-hands-on)
+### 共通
+
+1. [WordPress の基本設定](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-all.md)
+  - 言語設定
+  - サイトのタイトル設定
+  - サイトのキャッチフレーズ設定
+  - 日時のフォーマット
+  - 検索エンジンへの設定
+  - ディスカッション設定
+  - パーマリンク設定
+
+### 各カテゴリ毎
+
+1. [ブログサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+1. [ギャラリーサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-gallery.md)
+1. [コーポレートサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+1. [ショップサイト](https://github.com/wckansai2016/zerocoding-hands-on)
 
 ----
 
 ## 当日発表したスライド
 
 [こちらになります](https://github.com/wckansai2016/zerocoding-hands-on)
-
-----
 
 ## 世話役一覧
 
