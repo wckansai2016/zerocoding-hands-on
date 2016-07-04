@@ -7,6 +7,9 @@
   - テーマをインストールし、有効化した時点で完成イメージとレイアウトが違いますよね？
 1. テーマのサムネイルと同じレイアウトにするにはこのプラグインが必要です。
 1. プラグインをインストールしよう
+  - Jetpack をインストール
+  - Jetpack をインストール・有効化したら
+  - テキストエディターを使用し、wp-config.php ファイルにコードを追加してみよう
 1. Jetpack「カスタムコンテンツタイプ」を使ってポートフォリオ機能を使うには
 1. ナビゲーションの設定
 1. 余った時間次第で、実装したい機能などのヒアリング→なにか適切なプラグインあれば実装
@@ -60,7 +63,9 @@ WordPress.com アカウントを使用し「WordPress.com と連携」させる�
 define( 'JETPACK_DEV_DEBUG', true);
 ```
 
-例：http&#58;//example.com/wp/ に WordPress をインストールした場合は、http&#58;//example.com/wp/wp-config.php になります。
+例: `http://example.com/wp/` に WordPress をインストールした場合は、`http://example.com/wp/wp-config.php` になります。
+
+#### テキストエディターを使用し、wp-config.php ファイルにコードを追加してみよう
 
 追加する場所は、wp-config.php ファイルに書かれた以下文章の手前がいいでしょう。
 
@@ -77,10 +82,14 @@ define( 'JETPACK_DEV_DEBUG', true);
 
 [Development Mode &#8212; Jetpack for WordPress](https://jetpack.com/support/development-mode/)
 
-wp-config.php ファイルにコードを追加し、Jetpack 設定画面に以下文章が表示されれば準備Okです。
+wp-config.php ファイルにコードを追加し、Jetpack 設定画面に以下の文章が表示されれば準備完了です。
 
 > 開発モードで、wp-config.php または他の場所に定義される JETPACK_DEV_DEBUG 定数を経由します。
 
+**注意**
+
+Jetpack の開発モードはあくまで開発中に使用する機能です。  
+本番環境では、Jetpack の開発モードを使用しないようにしましょう。
 
 ### Jetpack「カスタムコンテンツタイプ」を使ってポートフォリオ機能を使うには
 
