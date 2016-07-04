@@ -6,14 +6,14 @@
   - テーマを検索してインストール
   - テーマをインストールし、有効化した時点で完成イメージとレイアウトが違いますよね？
 1. テーマのサムネイルと同じレイアウトにするにはこのプラグインが必要です。
-1. プラグインをインストールしましょう
+1. プラグインをインストールしよう
 1. Jetpack「カスタムコンテンツタイプ」を使ってポートフォリオ機能を使うには
 1. ナビゲーションの設定
 1. 余った時間次第で、実装したい機能などのヒアリング→なにか適切なプラグインあれば実装
 
 ----
 
-## 完成イメージ
+### 完成イメージ
 
 <img src="images/flow-gallery/s1.png" alt="完成イメージ" width="960">
 
@@ -34,7 +34,53 @@
 
 ### テーマのサムネイルと同じレイアウトにするにはこのプラグインが必要です。
 
-### プラグインをインストールしましょう
+Jetpack by WordPress.com（以後 Jetpack）という多機能プラグインの「カスタム投稿タイプ」と呼ばれる機能を使用しないと、完成イメージのようなレイアウトにすることができません。
+
+[Jetpack by WordPress.com](https://ja.wordpress.org/plugins/jetpack/)
+
+### プラグインをインストールしよう
+
+#### Jetpack をインストール
+
+1. ダッシュボード ＞ プラグイン ＞ 新規追加 ＞ プラグインの検索 に「Jetpack」と入力します。
+1. 「Jetpack by WordPress.com（作者: Automattic ）」と表示されたプラグインの「今すぐインストール」ボタンをクリック
+1. 「プラグインを有効化」をクリック
+
+#### Jetpack をインストール・有効化したら
+
+Jetpack はインストール・有効化した直後では使用することができません。
+WordPress.com アカウントを使用し「WordPress.com と連携」させる必要があります。
+
+しかし、今回のハンズオンでは MAMP や XAMPP といったいわゆるローカル環境で使用するので、「WordPress.com と連携」することができません。  
+そこで、ローカル環境で Jetpack を使用するには、以下の作業が必要となります。
+
+- WordPress をインストールしたディレクトリ直下の wp-config.php ファイルに以下コードを一行を追加
+
+```php
+define( 'JETPACK_DEV_DEBUG', true);
+```
+
+例：http&#58;//example.com/wp/ に WordPress をインストールした場合は、http&#58;//example.com/wp/wp-config.php になります。
+
+追加する場所は、wp-config.php ファイルに書かれた以下文章の手前がいいでしょう。
+
+```php
+/* That's all, stop editing! Happy blogging. */
+```
+
+ここに追加
+
+```php
+define( 'JETPACK_DEV_DEBUG', true);
+/* That's all, stop editing! Happy blogging. */
+```
+
+[Development Mode &#8212; Jetpack for WordPress](https://jetpack.com/support/development-mode/)
+
+wp-config.php ファイルにコードを追加し、Jetpack 設定画面に以下文章が表示されれば準備Okです。
+
+> 開発モードで、wp-config.php または他の場所に定義される JETPACK_DEV_DEBUG 定数を経由します。
+
 
 ### Jetpack「カスタムコンテンツタイプ」を使ってポートフォリオ機能を使うには
 
