@@ -20,11 +20,11 @@ http://あなたの WordPress 環境/wp-login.php
 
 以下画面から「ユーザー名またはメールアドレス」と「パスワード」を入力してください。
 
-![wp-login.php からログイン](images/flow-all/s1.png "ログイン")
+<img src="ogin.php からログイン](images/flow-" alt="wp" width="500">
 
 ログインできたら、ダッシュボードの 設定 ＞ 一般 の設定画面へ
 
-![ダッシュボード設定画面](images/flow-all/s2.png "ダッシュボード設定画面")
+<img src="images/flow-all/s2.png" alt="ダッシュボード設定画面" width="444">
 
 ### 言語設定
 
@@ -40,7 +40,8 @@ http://あなたの WordPress 環境/wp-login.php
 
 設定 ＞ 一般 ＞ サイトのタイトル にお好きなサイト名を入力してください。
 
-![サイトのタイトル](images/flow-all/s4.png "サイトのタイトル")
+<img src="images/flow-all/s4.png" alt="サイトのタイトル" width="600">
+
 
 サイトのタイトルは Google 検索の結果や、OGP で表示されたりします。
 
@@ -48,7 +49,7 @@ http://あなたの WordPress 環境/wp-login.php
 
 設定 ＞ 一般 ＞ キャッチフレーズ にお好きなキャッチフレーズを入力してください。
 
-![サイトのキャッチフレーズ](images/flow-all/s5.png "サイトのキャッチフレーズ")
+<img src="images/flow-all/s5.png" alt="サイトのキャッチフレーズ" width="600">
 
 こちらも Google 検索の結果や、OGP で表示されたりします。
 
@@ -56,19 +57,19 @@ http://あなたの WordPress 環境/wp-login.php
 
 設定 ＞ 一般 ＞ タイムゾーン から「東京」を選択してください。
 
-![タイムゾーン](images/flow-all/s6.png "タイムゾーン")
+<img src="images/flow-all/s6.png" alt="タイムゾーン" width="600">
 
 ### 日付のフォーマット
 
 設定 ＞ 一般 ＞ 日付のフォーマット から「Y年n月j日」を選択してください。
 
-![日付のフォーマット](images/flow-all/s7.png "日付のフォーマット")
+<img src="images/flow-all/s7.png" alt="日付のフォーマット" width="600">
 
 ### 時刻フォーマット
 
 設定 ＞ 一般 ＞ 時刻フォーマット から「H:i」を選択してください。
 
-![時刻フォーマット](images/flow-all/s8.png "時刻フォーマット")
+<img src="images/flow-all/s8.png" alt="時刻フォーマット" width="600">
 
 ここまで設定できれば、「変更を保存」します。
 
