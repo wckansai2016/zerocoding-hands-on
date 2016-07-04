@@ -15,12 +15,12 @@
 まずはログインしてください。
 
 ```
-http://あなたの WordPress 環境/wp-login.php
+http://あなたの WordPress をインストールした環境/wp-login.php
 ```
 
-以下画面から「ユーザー名またはメールアドレス」と「パスワード」を入力してください。
+以下、画面から「ユーザー名またはメールアドレス」と「パスワード」を入力し、ログインしてください。
 
-<img src="ogin.php からログイン](images/flow-" alt="wp" width="500">
+<img src="images/flow-all/s1.png" alt="ログイン" width="500">
 
 ログインできたら、ダッシュボードの 設定 ＞ 一般 の設定画面へ
 
