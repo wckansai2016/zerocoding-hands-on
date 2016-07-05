@@ -1,3 +1,7 @@
+# ゼロコーディングで WordPress サイト制作ハンズオン
+
+## もし Jetpack をインストール・有効化でつまずいたら
+
 Jetpack はインストール・有効化した直後では使用することができません。
 WordPress.com アカウントを使用し「WordPress.com と連携」させる必要があります。
 
@@ -17,11 +21,13 @@ define( 'JETPACK_DEV_DEBUG', true);
 追加する場所は、wp-config.php ファイルに書かれた以下文章の手前がいいでしょう。
 
 英語ならこちら
+
 ```php
 /* That's all, stop editing! Happy blogging. */
 ```
 
 日本語ならこちら
+
 ```php
 /* 編集が必要なのはここまでです ! WordPress でブログをお楽しみください。 */
 ```
@@ -52,3 +58,7 @@ wp-config.php ファイルにコードを追加し、Jetpack 設定画面に以�
 
 Jetpack の開発モードはあくまで開発中に使用する機能です。
 本番環境では、Jetpack の開発モードを使用しないようにしましょう。
+
+----
+
+[ギャラリーサイトの説明に戻る](./flow-gallery.md)
