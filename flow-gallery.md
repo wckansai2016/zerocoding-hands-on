@@ -160,4 +160,4 @@ OGP タグが2箇所出力されても恐らくサイトの表示や挙動に直
 
 ----
 
-[WordPress の基本設定の説明に戻る](./flow-all.md)
+[ハンズオンの流れページに戻る](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/README.md#ハンズオンの流れ)

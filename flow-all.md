@@ -92,6 +92,8 @@ http://あなたの WordPress をインストールした環境/wp-login.php
 
 パーマリンクについて詳しく知りたい場合はこちら → [https://wpdocs.osdn.jp/パーマリンクの使い方](https://wpdocs.osdn.jp/%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
 
+WordPress の基本設定 は以上です。
+
 ----
 
-WordPress の基本設定 は以上です。
+[ハンズオンの流れページに戻る](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/README.md#ハンズオンの流れ)
