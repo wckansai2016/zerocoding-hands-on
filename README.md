@@ -39,10 +39,10 @@
 
 ### 各カテゴリ毎
 
-- [ブログサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+- [ブログサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-blog.md)
 - [ギャラリーサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-gallery.md)
-- [コーポレートサイト](https://github.com/wckansai2016/zerocoding-hands-on)
-- [ショップサイト](https://github.com/wckansai2016/zerocoding-hands-on)
+- [コーポレートサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-corporate.md)
+- [ショップサイト](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/flow-shop.md)
 
 ----
 
