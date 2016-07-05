@@ -43,3 +43,7 @@
 表挿入に使用します。
 
 [TinyMCE Advanced](https://ja.wordpress.org/plugins/tinymce-advanced/)
+
+----
+
+[WordPress の基本設定の説明に戻る](./flow-all.md)

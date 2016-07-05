@@ -63,3 +63,7 @@
 #### ウェブサイトに求められる様々な機能を実装した多機能統合型プラグイン
 
 [VK All in One Expansion Unit](https://ja.wordpress.org/plugins/vk-all-in-one-expansion-unit/)
+
+----
+
+[WordPress の基本設定の説明に戻る](./flow-all.md)

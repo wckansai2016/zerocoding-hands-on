@@ -63,3 +63,7 @@
 #### 関連記事表示
 
 [Yet Another Related Posts Plugin](https://ja.wordpress.org/plugins/yet-another-related-posts-plugin/)
+
+----
+
+[WordPress の基本設定の説明に戻る](./flow-all.md)
