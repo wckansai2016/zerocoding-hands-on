@@ -139,9 +139,10 @@ OGP（ Open Graph protocol ）と呼ばれる規格を設定しておくと SNS 
 
 これだけで、投稿した内容に「 OGP タグ」と呼ばれる HTML タグが自動でページのソースに付与されます。
 
-また他のプラグインでも OGP の設定を行うことができます。
+また以下のプラグインでも OGP の設定を行うことができます。
 
-[Yoast SEO](https://ja.wordpress.org/plugins/wordpress-seo/)
+[Yoast SEO](https://ja.wordpress.org/plugins/wordpress-seo/)  
+[All in One SEO Pack](https://srd.wordpress.org/plugins/all-in-one-seo-pack/)
 
 使いやすいプラグインを選択していただければいいかと思いますが、ここで気をつけなければならないのはプラグイン間の機能のバッティングです。
 

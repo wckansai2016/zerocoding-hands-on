@@ -64,6 +64,11 @@
 
 [Yet Another Related Posts Plugin](https://ja.wordpress.org/plugins/yet-another-related-posts-plugin/)
 
+
+#### OGP と sitemap.xml の出力
+
+[All in One SEO Pack](https://srd.wordpress.org/plugins/all-in-one-seo-pack/)
+
 ----
 
 [ハンズオンの流れページに戻る](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/README.md#ハンズオンの流れ)
