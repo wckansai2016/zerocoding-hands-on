@@ -68,6 +68,10 @@
 
 [All in One SEO Pack](https://srd.wordpress.org/plugins/all-in-one-seo-pack/)
 
+#### 主に表の挿入に使用
+
+[TinyMCE Advanced](https://ja.wordpress.org/plugins/tinymce-advanced/)
+
 ----
 
 [ハンズオンの流れページに戻る](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/README.md#ハンズオンの流れ)
