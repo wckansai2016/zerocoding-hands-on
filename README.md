@@ -52,8 +52,8 @@
 
 ## 世話役一覧
 
-- [シマキョウスケ](https://profiles.wordpress.org/shimakyohsuke)
-- [川井 昌彦](https://profiles.wordpress.org/masakawai)
-- [ふじたたいぞう](https://profiles.wordpress.org/junonet)
-- [まゆねぇ](https://profiles.wordpress.org/mayum)
-- [yori3](https://profiles.wordpress.org/yori3)
+- [シマキョウスケ](https://2016.kansai.wordcamp.org/speaker/shimakyohsuke/)
+- [川井 昌彦](https://2016.kansai.wordcamp.org/speaker/masakawai/)
+- [ふじたたいぞう](https://2016.kansai.wordcamp.org/speaker/junonet/)
+- [まゆねぇ](https://2016.kansai.wordcamp.org/speaker/mayum/)
+- [yori3](https://2016.kansai.wordcamp.org/speaker/yori3/)
