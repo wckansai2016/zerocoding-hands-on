@@ -61,7 +61,12 @@ Jetpack by WordPress.com（以後 Jetpack）という多機能プラグインの
 ※画像の用意がない場合は [こちら](https://github.com/wckansai2016/zerocoding-hands-on/archive/master.zip) から zip ファイルをダウンロードし、画像をアップロードしてください。（ zip ファイルを展開後、`zerocoding-hands-on-master/images/sample_picture/` に画像が格納されてます。 ）
 1. ダッシュボード ＞ 固定ページ へ移動します。
 1. ダッシュボード ＞ 固定ページ ＞ 新規追加 を選択
-1. 「タイトル」を入力し、コンテンツ部分に `[portfolio]` と入力します。
+1. 「タイトル」を入力し、コンテンツ部分に以下を入力します。  
+```
+## Hello! WordCamp Kansai 2016 !!
+
+ゼロコーディングで WordPress サイト制作ハンズオン
+```
 1. 「ページ属性」項目のテンプレートを「ポートフォリオページテンプレート」に変更し「公開」します。
 1. ダッシュボード ＞ 外観 ＞ カスタマイズ へ移動します。
 1. 「固定フロントページ」の項目をクリック
