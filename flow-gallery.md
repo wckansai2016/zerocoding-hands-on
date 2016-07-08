@@ -58,7 +58,8 @@ Jetpack by WordPress.com（以後 Jetpack）という多機能プラグインの
 1. ダッシュボード ＞ 設定 ＞ 投稿設定 画面で「カスタムコンテンツタイプ」の設定項目が表示されていればOKです。
 1. ダッシュボード ＞ ポートフォリオ ＞ 新規追加 を選択
 1. 「タイトル」「アイキャッチ画像」を設定し「公開」します。  
-※画像の用意がない場合は [こちら](https://github.com/wckansai2016/zerocoding-hands-on/archive/master.zip) から zip ファイルをダウンロードし、画像をアップロードしてください。（ zip ファイルを展開後、`zerocoding-hands-on-master/images/sample_picture/` に画像が格納されてます。 ）
+※画像の用意がない場合は [こちら](https://github.com/wckansai2016/zerocoding-hands-on/archive/master.zip) から zip ファイルをダウンロードし、画像をアップロードしてください。  
+（ zip ファイルを展開後、`zerocoding-hands-on-master/images/sample_picture/` に画像が格納されてます。 ）
 1. ダッシュボード ＞ 固定ページ へ移動します。
 1. ダッシュボード ＞ 固定ページ ＞ 新規追加 を選択
 1. 「タイトル」を入力し、コンテンツ部分に以下を入力します。  
