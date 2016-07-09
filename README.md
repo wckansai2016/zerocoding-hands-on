@@ -48,7 +48,7 @@
 
 ## 当日発表したスライド
 
-[こちらになります](https://github.com/wckansai2016/zerocoding-hands-on)
+[こちらになります](https://github.com/wckansai2016/zerocoding-hands-on/blob/master/wck2016-zero_coding.pdf)
 
 ## 世話役一覧
 
