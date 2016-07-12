@@ -34,9 +34,9 @@
 
 [Contact Form 7](https://ja.wordpress.org/plugins/contact-form-7/)
 
-#### メニューに画像追加
+#### スライドショーを挿入
 
-[Menu Image](https://ja.wordpress.org/plugins/menu-image/)
+[Meta Slider](https://ja.wordpress.org/plugins/ml-slider/)
 
 #### WordPress の WYSIWYG エディター
 
